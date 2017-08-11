@@ -9,4 +9,5 @@
 Create an app that has one button. When the button is pressed, the current temperature in Houston Texas is shown in a text field. By current temperature, we mean the temperature when we run your app.
 
 # Your comments or assumptions
-- <add them here>
+- Weird to fetch temperature when app is run, app fetches data on button press but is set up so that it is easy to switch
+- Possibly slightly overkill

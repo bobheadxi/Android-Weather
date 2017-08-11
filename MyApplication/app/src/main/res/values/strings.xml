@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Android Weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">what\'s the weather in Houston bby</string>
+    <string name="about">This is a weather app.</string>
+    <string name="error">Houston, we hvae a problem.</string>
+</resources>
